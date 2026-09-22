@@ -1,0 +1,6 @@
+{
+  "name": "CodeDoctorAI",
+  "description": "AI-Powered Python Code Error Doctor using IBM Bob inference and real Python syntax analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
